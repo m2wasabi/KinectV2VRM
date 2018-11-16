@@ -34,3 +34,27 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+# IDE/Editor
+.vscode/
+.idea/
+
+# Imported Assets
+/Assets/Plugins.meta
+/Assets/Plugins/UniRx/
+/Assets/Plugins/UniRx.meta
+/Assets/Plugins/RootMotion/
+/Assets/Plugins/RootMotion.meta
+/Assets/Plugins/Editor/JetBrains/
+/Assets/Plugins/Editor/JetBrains.meta
+/Assets/Plugins/Editor.meta
+/Assets/Plugins/Metro/
+/Assets/Plugins/Metro.meta
+/Assets/Plugins/x86/
+/Assets/Plugins/x86.meta
+/Assets/Plugins/x86_64/
+/Assets/Plugins/x86_64.meta
+/Assets/VRM/
+/Assets/VRM.meta
+/Assets/Standard Assets/
+/Assets/Standard Assets.meta
